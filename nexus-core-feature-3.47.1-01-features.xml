@@ -136,7 +136,7 @@
         <bundle>mvn:org.apache.maven.indexer/indexer-reader/5.1.2-202109</bundle>
         <bundle>wrap:mvn:org.apache.maven.archetype/archetype-catalog/3.2.0</bundle>
     </feature>
-    <feature name="nexus-repository-composer" description="org.sonatype.nexus.plugins:nexus-repository-composer" version="0.0.8">
+    <feature name="nexus-repository-composer" description="org.sonatype.nexus.plugins:nexus-repository-composer" version="0.0.30">
       <details>org.sonatype.nexus.plugins:nexus-repository-composer</details>
       <bundle>mvn:org.sonatype.nexus.plugins/nexus-repository-composer/0.0.8</bundle>
     </feature>
