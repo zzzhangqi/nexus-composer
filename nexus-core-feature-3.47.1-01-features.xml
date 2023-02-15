@@ -138,6 +138,6 @@
     </feature>
     <feature name="nexus-repository-composer" description="org.sonatype.nexus.plugins:nexus-repository-composer" version="0.0.30">
       <details>org.sonatype.nexus.plugins:nexus-repository-composer</details>
-      <bundle>mvn:org.sonatype.nexus.plugins/nexus-repository-composer/0.0.8</bundle>
+      <bundle>mvn:org.sonatype.nexus.plugins/nexus-repository-composer/0.0.30</bundle>
     </feature>
 </features>
